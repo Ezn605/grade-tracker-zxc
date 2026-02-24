@@ -1,0 +1,2 @@
+INSERT INTO students (username, password, subject, grade) VALUES ('ezona', 'password123', 'Networking 2', 1.5);
+INSERT INTO students (username, password, subject, grade) VALUES ('student2', 'admin_cec', 'Information Management', 1.2);
